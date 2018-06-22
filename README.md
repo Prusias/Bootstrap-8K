@@ -15,26 +15,26 @@ and reference it (preferably after bootstrap) in the header using:
 ```
 
 #### 2k
-Target resolution: 1920px x 1080px
-Breakpoints: > 1900px & < 1899.98px
-Container Width: 1860px
+Target resolution: 1920px x 1080px  
+Breakpoints: > 1900px & < 1899.98px  
+Container Width: 1860px  
 
 #### 3k
-Target resolution: 2880px x 1620px
-Breakpoints: > 2800px & < 2799.98px
-Container Width: 2790px
+Target resolution: 2880px x 1620px  
+Breakpoints: > 2800px & < 2799.98px   
+Container Width: 2790px   
 
 #### 4k
-Target resolution: 3840px x 2160px
-Breakpoints: > 3800px & < 3799.98px
-Container Width: 3720px
+Target resolution: 3840px x 2160px   
+Breakpoints: > 3800px & < 3799.98px  
+Container Width: 3720px   
 
 #### 6k
-Target resolution: 5760px x 2160px
-Breakpoints: > 5700px & < 5699.98px
-Container Width: 5580px
+Target resolution: 5760px x 2160px  
+Breakpoints: > 5700px & < 5699.98px  
+Container Width: 5580px  
 
 #### 8k
-Target resolution: 7680px x 2160px
-Breakpoints: > 7600px & < 7599.98px
-Container Width: 7440px
+Target resolution: 7680px x 2160px  
+Breakpoints: > 7600px & < 7599.98px  
+Container Width: 7440px  
